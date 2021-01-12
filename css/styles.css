@@ -1,0 +1,17 @@
+head, body {
+background-image: url("23825855.jpg");
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.header{
+    text-align: center;
+    margin-top: 175px;
+    color: white;
+}
+
+.text {
+    margin-top: 300px;
+}
+.second-heading {
+    text-align: right;
+}
